@@ -42,7 +42,7 @@ Percentage of non-Vine reviews were 5 stars:
 
 <img width="700" alt="Screen Shot 2021-12-02 at 2 09 56 PM" src="https://user-images.githubusercontent.com/88408350/144511246-bda59ec9-0d10-447d-85ff-fcbb4c2d84b0.png">
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary:
 Positivity bias is a general preference shown by most people for positive relations. Since about 51% of Vine reviews received 5 stars and about 38% of non-Vine reviews received 5 stars, there is some positivity bias.
 
 Some additional analysis I would add are the 3 main types of descriptive statistics which are the frequency distribution, central tendency, and variability of a dataset. By doing this, we can determine more clearly and accurately to see if our results change. 
